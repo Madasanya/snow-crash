@@ -1,2 +1,4 @@
-https://www.linode.com/docs/guides/linux-users-and-groups/
-https://null-byte.wonderhowto.com/how-to/crack-shadow-hashes-after-getting-root-linux-system-0186386/
+http://mikiwiki.org/wiki/scp_(Shell-Befehl)
+
+![image](https://user-images.githubusercontent.com/64751701/204431152-d93d1c18-b69e-4c6f-a8ad-948da99f7312.png)
+
