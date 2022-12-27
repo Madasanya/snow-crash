@@ -2,6 +2,13 @@
 
 ## General
 
+This project is one of the first projects out of the Security Specializations of 42 Wolfsburg.
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hennneh&repo=snow-crash&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+![Your Repository's Stats](https://contrib.rocks/image?repo=hennneh/snow-crash)
+
 ### Subject
 
 An ISO, that has to be started within a VM(64bits), is supplied with the project task.
@@ -30,22 +37,16 @@ Also all additional scripts are stored in the respective folders.
 
 The desripction on how we got them, can be found in the [Wiki](https://github.com/hennneh/snow-crash/wiki) of this repository.
 
-## Contributors
-Hendrik Lehmann
+## Contributor Contact Details
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hendrik-Lehmann)
-<br>
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/793196434605867038)
-<br>
-[![GitHub](https://img.shields.io/badge/Github-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/hennneh)
 
-Margarete Mueller
+|                                                                                                                                                    Hendrik Lehmann                                                                                                                                                     |                                                                                                                                    Margarete Mueller                                                                                                                                      |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/hennneh.png?size=115" width=115><br><sub>@hennneh</sub>](https://github.com/hennneh) | [<img src="https://github.com/Madasanya.png?size=250" width=115><br><sub>@Madasanya</sub>](https://github.com/Madasanya) |
+|[![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=plastic&logo=GitHub&logoColor=white)](https://github.com/hennneh)|[![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=plastic&logo=GitHub?logoWidth=40)](https://github.com/Madasanya)|
+|[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/hendrik-Lehmann)|[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/margarete-mueller)|
+|[![Discord](https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/793196434605867038)|[![Discord](https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/793196434605867038)|
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/margarete-mueller)
-<br>
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/793196434605867038)
-<br>
-[![GitHub](https://img.shields.io/badge/Github-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Madasanya)
-
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Other
