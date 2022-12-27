@@ -47,3 +47,7 @@ The desripction on how we got them, can be found in the [Wiki](https://github.co
 ![GitHub language count](https://img.shields.io/github/languages/count/hennneh/snow-crash?style=plastic)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/hennneh/snow-crash?style=plastic)
+
+## Other
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=solidBlue&bgColor=00000000)
