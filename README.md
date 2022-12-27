@@ -4,11 +4,6 @@
 
 This project is one of the first projects out of the Security Specializations of 42 Wolfsburg.
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hennneh&repo=snow-crash&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-![Your Repository's Stats](https://contrib.rocks/image?repo=hennneh/snow-crash)
-
 ### Subject
 
 An ISO, that has to be started within a VM(64bits), is supplied with the project task.
@@ -47,4 +42,8 @@ The desripction on how we got them, can be found in the [Wiki](https://github.co
 |[![Discord](https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white&logoWidth=20)](https://discordapp.com/users/793196434605867038)|[![Discord](https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white&logoWidth=20)](https://discordapp.com/users/793196434605867038)|
 |[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=GitHub&logoColor=white&logoWidth=25)](https://github.com/hennneh)|[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=GitHub&logoColor=white&logoWidth=25)](https://github.com/Madasanya)|
 
-## Other
+## Stats
+
+![GitHub language count](https://img.shields.io/github/languages/count/hennneh/snow-crash?style=plastic)
+
+![GitHub top language](https://img.shields.io/github/languages/top/hennneh/snow-crash?style=plastic)
