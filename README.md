@@ -3,6 +3,7 @@
 ## General
 
 This project is one of the first projects out of the Security Specializations of 42 Wolfsburg.
+A detailed description of our solutions and used methods can be found on our [Wiki](https://github.com/hennneh/snow-crash/wiki).
 
 ### Subject
 
@@ -29,8 +30,6 @@ The usage of external software is allowed. Also it is recommended to connect via
 
 The repository contains a folder for every _levelXX_ and the token we got there from user _flagXX_.
 Also all additional scripts are stored in the respective folders.
-
-The desripction on how we got them, can be found in the [Wiki](https://github.com/hennneh/snow-crash/wiki) of this repository.
 
 ## Contributor Contact Details
 
