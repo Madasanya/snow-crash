@@ -3,7 +3,7 @@
 ## General
 
 This project is one of the first projects out of the Security Specializations of 42 Wolfsburg.
-A detailed description of our solutions and used methods can be found on our [Wiki](https://github.com/hennneh/snow-crash/wiki).
+A detailed description of our solutions and used methods can be found on our [Wiki](https://github.com/Madasanya/snow-crash/wiki).
 
 ### Subject
 
@@ -43,9 +43,9 @@ Also all additional scripts are stored in the respective folders.
 
 ## Stats
 
-![GitHub language count](https://img.shields.io/github/languages/count/hennneh/snow-crash?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/snow-crash?style=plastic)
 
-![GitHub top language](https://img.shields.io/github/languages/top/hennneh/snow-crash?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/snow-crash?style=plastic)
 
 ## Other
 
